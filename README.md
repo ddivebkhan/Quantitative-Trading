@@ -34,4 +34,16 @@ The project is contained within a single Jupyter Notebook file. The notebook is 
 
 ## How to Run the Project
 
-1.  **Install Libraries**: Ensure you have the required libraries installed. You can install them using pip
+1.  **Install Libraries**: Ensure you have the required libraries installed. You can install them using !pip install
+
+## Key Concepts
+
+*   **Moving Averages (MA)**: Used to smooth out price data and identify trends.
+*   **Relative Strength Index (RSI)**: A momentum indicator used to identify overbought and oversold conditions.
+*   **Trading Strategy**: A set of rules for making buy and sell decisions.
+*   **Cumulative Returns**: The total returns of an investment over time, calculated by multiplying the daily returns and adding them to the previous day's total return.
+
+## Notes
+
+*   This is a simplified analysis and trading strategy for demonstration purposes. It does not take into account transaction costs, taxes, or other real-world factors.
+*   The performance of the trading strategy is dependent on the selected parameters and market conditions and might not be profitable.
